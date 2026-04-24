@@ -1,2 +1,2 @@
-# anil.github.io-savechef
+savechef
 A Complete Food Safety Solution
